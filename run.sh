@@ -1,0 +1,1 @@
+python3 -m uvicorn main:app --host localhost --port 4242 --reload
